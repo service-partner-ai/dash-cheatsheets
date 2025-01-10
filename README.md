@@ -89,7 +89,7 @@ Please ensure new cheatsheets follow the repository's structure and include any 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and adapt the cheatsheets for personal or commercial projects.
+This repository is licensed under the [GNU General Public License](LICENSE). Feel free to use and adapt the cheatsheets for personal projects or commercial use but it must be open-source.
 
 ## Acknowledgments
 
