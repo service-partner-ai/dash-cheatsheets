@@ -76,3 +76,12 @@ pnpm-debug.log*
 # System files
 Thumbs.db
 .DS_Store
+
+# General
+*.tgz
+*.zip
+
+
+# Project-specific files
+*.docset
+*.pdf
