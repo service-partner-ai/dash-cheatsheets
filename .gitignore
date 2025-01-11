@@ -72,3 +72,7 @@ pnpm-debug.log*
 !.vscode/extensions.json # extension suggestions
 !.vscode/tasks.json # reusable tasks for your project (e.g., build scripts, test commands).
 !.vscode/launch.json # specific debug configurations that others might use.
+
+# System files
+Thumbs.db
+.DS_Store
